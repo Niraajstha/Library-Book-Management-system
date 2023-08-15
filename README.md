@@ -1,1 +1,8 @@
 # Library-Book-Management-system
+
+Project Name: Library Book Management system
+
+Group Members:
+
+Niraaj Shrestha  "ACE078BCT042"
+Jatan babu Kapri "ACE078BCT030"
